@@ -5,10 +5,10 @@ This is where I opensource and learn new stuff...
 - 🌱 &nbsp;I’m currently learning Python, React
 - ⚡ &nbsp;Fun fact: I :heart: music, gardening
 
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/vidyaa-shyam-9083b1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidyaashyam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidyaa-shyam-9083b1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Vidyaa123/Vidyaa123/main/images/linkedin-icon-2.svg" alt="vidyaashyam" height="30" width="40" /></a>
+
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
