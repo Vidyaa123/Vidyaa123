@@ -8,9 +8,9 @@ This is where I opensource and learn new stuff...
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/vidyaa-shyam-9083b1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Vidyaa123/Vidyaa123/master/images/linkedin-icon-2.svg" alt="vidyaashyam" height="30" width="40" /></a>
-<p align="left">
-<a href="https://twitter.com/VidyaaShy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Vidyaa123/Vidyaa123/master/images/icons8-twitter.svg" alt="@vidyaashy" height="30" width="40" /></a>
 
+<a href="https://twitter.com/VidyaaShy" target="blank"><img align="center" src="https://raw.githubusercontent.com/Vidyaa123/Vidyaa123/master/images/icons8-twitter.svg" alt="@vidyaashy" height="30" width="40" /></a>
+</p>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
