@@ -3,7 +3,7 @@ This is where I learn new stuff...
 
 - 🔭 &nbsp;I’m working towards AWS Certified Cloud Practioner :wink:
 - 🌱 &nbsp;I’m currently learning Python & React
-- :space_invader: &nbsp;Looking to contribute to Open Source
+- :space_invader: &nbsp;Contributing my small part to Open Source
 - ⚡ &nbsp; I :heart: listening to music and more 🎵
 
 🔗 &nbsp;**Connect with me**
