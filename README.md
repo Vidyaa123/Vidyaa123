@@ -1,7 +1,7 @@
 ### Hey there, I'm Vidyaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is where I learn new stuff...
 
-- 🔭 &nbsp;I’m working towards AWS Certified Cloud Practioner :wink:
+- 🔭 &nbsp;I’m working towards AWS Certified Solution Architect Associate :wink:
 - 🌱 &nbsp;I’m currently learning Python & React
 - :space_invader: &nbsp;Contributing my small part to Open Source
 - ⚡ &nbsp; I :heart: listening to music and more 🎵
