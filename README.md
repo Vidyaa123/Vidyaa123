@@ -19,6 +19,6 @@ This is where I learn new stuff...
 
 [![Vidyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidyaa123&show_icons=true&theme=tokyonight)](https://github.com/vidyaa123/github-readme-stats)
 
-  
+ ![Visitor Count](https://profile-counter.glitch.me/{Vidyaa123}/count.svg) 
 
 
