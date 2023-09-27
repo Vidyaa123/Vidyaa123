@@ -1,8 +1,8 @@
-### Hey there, I'm Vidyaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is where I learn new stuff...
 
 - 🔭 &nbsp;I’m working towards AWS Solution Architect Associate Certification :wink:
-- 🌱 &nbsp;I’m currently learning Python & AWS
+- 🌱 &nbsp;I’m currently pushing myself through Andrew Brown's Terraform Beginner Bootcamp
 - :space_invader: &nbsp;Contributing my small part to Open Source
 - ⚡ &nbsp; I :heart: listening to music and more 🎵
 
