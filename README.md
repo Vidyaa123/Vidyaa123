@@ -2,7 +2,7 @@
 This is where I learn new stuff...
 
 - 🔭 &nbsp;I’m working towards AWS Solution Architect Associate Certification :wink:
-- 🌱 &nbsp;I’m currently pushing myself through Andrew Brown's Terraform Beginner Bootcamp
+- 🌱 &nbsp;Completed Andrew Brown's [Terraform Beginner Bootcamp 2023](https://github.com/Vidyaa123/terraform-beginner-bootcamp-2023)<img align="center" src="https://raw.githubusercontent.com/Vidyaa123/Vidyaa123/master/images/cpb-terraformer-badge.svg" alt="vidyaashyam" height="30" width="40" /></a>
 - :space_invader: &nbsp;Contributing my small part to Open Source
 - ⚡ &nbsp; I :heart: listening to music and more 🎵
 
